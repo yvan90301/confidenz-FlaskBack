@@ -1,0 +1,11 @@
+Dans cette api nous allons utiliser panda pour traiter les les fichiers excel qui seront uploadés.
+
+Voici la liste des fonctionnalités:
+
+    1- Extraire les entêtes
+    2- Extraire les informations
+    3- Créer un nouveau worbook pour chaque sous-menu
+    4- Sauver les données en bd
+    5- Convertir les données excel en dataframe
+    6- Convertir les dataframe en fichier 
+    
